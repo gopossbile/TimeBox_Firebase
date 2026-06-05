@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697237906448",
+    "project_id": "timebox-cef82",
+    "storage_bucket": "timebox-cef82.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697237906448:android:b9e99e5b65d03466179695",
+        "android_client_info": {
+          "package_name": "com.elon.timebox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlTTG6VA7ggaXk0Rtit-8myt3kjkn_LXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
